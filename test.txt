@@ -1,2 +1,3 @@
+begain input content.
 add test contents.
 end.
