@@ -2,3 +2,6 @@ begain input content.
 add test contents.
 end.
 add a new content.
+this is user a add.
+this is user b add.
+this is intellij user add content.
